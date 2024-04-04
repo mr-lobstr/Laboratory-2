@@ -17,5 +17,5 @@ int main()
 			countMatch += nextRound;
 		}
 	}
-	cout << countMatch;
+	cout << countMatch << endl;
 }

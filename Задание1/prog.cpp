@@ -38,4 +38,6 @@ int main()
 
 		cout << (i > 0 ? "->" : " = ") << s.substr(0, lenOutStr);
 	}
+
+	cout << endl;
 }
